@@ -1,7 +1,7 @@
 # Instalasi Nginx
 
 ## 🚀 Instalasi dan Konfigurasi Nginx
-Pertama, pastikan Anda telah menginstal Termux di perangkat Anda. Setelah itu, buka aplikasi Termux dan ikuti langkah-langkah di bawah ini.
+### Pertama, pastikan Anda telah menginstal Termux di perangkat Anda. Setelah itu, buka aplikasi Termux dan ikuti langkah-langkah di bawah ini.
 
   - Instalasi Nginx
     Untuk menginstal Nginx, ketik perintah berikut:
@@ -39,7 +39,7 @@ Pertama, pastikan Anda telah menginstal Termux di perangkat Anda. Setelah itu, b
   - Tekan Ctrl + X untuk keluar, lalu ketik Y dan Enter untuk menyimpan perubahan.
 
 ## 💻 Menjalankan dan Mengetes Server
-Setelah konfigurasi selesai, mari kita jalankan server dan lakukan pengetesan.
+### Setelah konfigurasi selesai, mari kita jalankan server dan lakukan pengetesan.
 
   - Jalankan PHP-FPM & Nginx
     Ketikkan perintah berikut untuk memulai kedua layanan secara bersamaan:
@@ -79,7 +79,7 @@ Setelah konfigurasi selesai, mari kita jalankan server dan lakukan pengetesan.
     Jika semua berjalan dengan benar, Anda akan melihat halaman phpinfo() yang menampilkan detail konfigurasi PHP Anda.
 
 ## 🚦 Perintah Penting
-Berikut adalah beberapa perintah dasar untuk mengelola Nginx:
+### Berikut adalah beberapa perintah dasar untuk mengelola Nginx:
 
   - Mulai Nginx:
     ~~~
